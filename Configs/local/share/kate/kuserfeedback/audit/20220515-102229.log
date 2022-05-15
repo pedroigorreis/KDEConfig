@@ -1,0 +1,50 @@
+{
+    "applicationVersion": {
+        "data": {
+            "value": "21.12.2"
+        },
+        "description": "A versão do aplicativo.",
+        "telemetryMode": "BasicSystemInformation"
+    },
+    "platform": {
+        "data": {
+            "os": "linux",
+            "version": "fedora-36"
+        },
+        "description": "Tipo e versão do sistema operacional.",
+        "telemetryMode": "BasicSystemInformation"
+    },
+    "qtVersion": {
+        "data": {
+            "value": "5.15.3"
+        },
+        "description": "A versão do Qt usada neste aplicativo.",
+        "telemetryMode": "BasicSystemInformation"
+    },
+    "screens": {
+        "data": [
+            {
+                "devicePixelRatio": 1,
+                "dpi": 144,
+                "height": 1080,
+                "width": 1920
+            }
+        ],
+        "description": "Tamanho e resolução de todas as telas conectadas.",
+        "telemetryMode": "DetailedSystemInformation"
+    },
+    "startCount": {
+        "data": {
+            "value": 46
+        },
+        "description": "A frequência de início do aplicativo.",
+        "telemetryMode": "BasicUsageStatistics"
+    },
+    "usageTime": {
+        "data": {
+            "value": 81883
+        },
+        "description": "O quantidade total de tempo que o aplicativo foi usado.",
+        "telemetryMode": "BasicUsageStatistics"
+    }
+}
