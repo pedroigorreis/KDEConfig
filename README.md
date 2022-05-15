@@ -12,4 +12,4 @@ sudo dnf in -y \
     spectacle
 ```
 ## Preview
-![Preview]()
+![Preview](https://raw.githubusercontent.com/pedroigorreis/KDEConfig/main/Print/Previewpng.png)
