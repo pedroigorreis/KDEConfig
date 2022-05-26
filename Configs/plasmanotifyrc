@@ -1,0 +1,6 @@
+[DoNotDisturb]
+WhenScreenSharing=false
+WhenScreensMirrored=false
+
+[Notifications]
+PopupPosition=BottomRight
